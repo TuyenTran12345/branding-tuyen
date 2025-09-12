@@ -36,8 +36,8 @@ Module này sẽ thay đổi giao diện module Hr Expense theo thương hiệu 
 
     'author': "Viindoo",
     'website': "https://viindoo.com",
-    'live_test_url': "https://v17demo-int.viindoo.com",
-    'live_test_url_vi_VN': "https://v17demo-vn.viindoo.com",
+    'live_test_url': "https://v18demo-int.viindoo.com",
+    'live_test_url_vi_VN': "https://v18demo-vn.viindoo.com",
     'support': "apps.support@viindoo.com",
 
     # Categories can be used to filter modules in modules listing
@@ -59,7 +59,7 @@ Module này sẽ thay đổi giao diện module Hr Expense theo thương hiệu 
             'viin_brand_hr_expense/static/src/scss/viin_brand_hr_expense.scss',
         ],
     },
-    'installable': False,
+    'installable': True,
     'auto_install': True,
     'price': 0.0,
     'currency': 'EUR',
